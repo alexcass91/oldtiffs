@@ -507,7 +507,7 @@
     {
         "Name": "TALMAN Max",
         "Apps": "44",
-        "Points": "5"
+        "Points": "45"
     },
     {
         "Name": "WATERTON Russell",
@@ -625,7 +625,7 @@
         "Points": "20"
     },
     {
-        "Name": "MUTHUKUMAR Monty",
+        "Name": "MUTHUKUMAR Andrew",
         "Apps": "36",
         "Points": "5"
     },
@@ -1930,7 +1930,7 @@
         "Points": null
     },
     {
-        "Name": "THAYAPARAN Thiova",
+        "Name": "THAYAPARAN Thivyan",
         "Apps": "3",
         "Points": null
     },
@@ -2411,11 +2411,6 @@
     },
     {
         "Name": "FOX A",
-        "Apps": "1",
-        "Points": null
-    },
-    {
-        "Name": "FRASER Callum",
         "Apps": "1",
         "Points": null
     },
